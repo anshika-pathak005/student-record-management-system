@@ -9,12 +9,13 @@ I created Version 1 while learning the basics, and then redesigned and enhanced 
   - Built during my learning phase.  
   - I referred to an online tutorial to understand the workflow but wrote my own code and used my own design.  
   - Simple user interface with functional CRUD operations.
-  - Version 1 (SRMS-v1): [Click here to see full details](SRMS-v1)
+  - [Click here to see full details](SRMS-v1)
 
 - **Version 2 (SRMS-v2):**  
   - Fully redesigned independently with **CustomTkinter** for a modern look.  
   - Added multiple new features, detailed validation checks, and improved user experience.  
   - Packaged as an executable using **PyInstaller** for easy distribution.
+  - [Click here to see full details](SRMS-v2)
 
 ## Features
 
@@ -103,9 +104,15 @@ You can either run the ready-made executable (no coding required) or run the pro
    `bash
    python login.py
 
-## Screenshots
+## Project Screenshots
 
-*(Add one or two screenshots for quick glance. Detailed screenshots should go in each version’s README.)*
+| SRMS v1 (Login) | SRMS v2 (Login) |
+|-----------------|-----------------|
+| <img src="SRMS-v1/screenshots/login.png" width="100%" /> | <img src="SRMS-v2/screenshots/login.png" width="100%" /> |
+
+| SRMS v1 (Dashboard) | SRMS v2 (Dashboard) |
+|---------------------|---------------------|
+| <img src="SRMS-v1/screenshots/dashboard.png" width="100%" /> | <img src="SRMS-v2/screenshots/dashboard.png" width="100%" /> |
 
 ## Author
 
