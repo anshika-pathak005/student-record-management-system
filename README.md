@@ -8,7 +8,8 @@ I created Version 1 while learning the basics, and then redesigned and enhanced 
 - **Version 1 (SRMS-v1):**  
   - Built during my learning phase.  
   - I referred to an online tutorial to understand the workflow but wrote my own code and used my own design.  
-  - Simple user interface with functional CRUD operations.  
+  - Simple user interface with functional CRUD operations.
+  - Version 1 (SRMS-v1): [Click here to see full details](SRMS-v1)
 
 - **Version 2 (SRMS-v2):**  
   - Fully redesigned independently with **CustomTkinter** for a modern look.  
