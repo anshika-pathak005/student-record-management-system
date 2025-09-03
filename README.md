@@ -46,38 +46,13 @@ I created Version 1 while learning the basics, and then redesigned and enhanced 
 ## Repository Structure
 
 ```
-/Student-Record-Management-System
+/student-record-management-system
 │
-├── README.md                    # Master README (explains both versions + how to use)
-│
-├── SRMS-v1/                     # First version (learning phase)
-│   ├── README.md                # README specific to v1
-│   ├── login.py                 # Main file for v1
-│   ├── dashboard.py
-│   ├── register.py
-│   ├── student.py
-│   ├── course.py
-│   ├── result.py
-│   ├── view_result.py
-│   ├── create_db.py       
-│   ├── RMS.db                   # Database for v1
-│   └── images/                  
-│
-├── SRMS-v2/                     # Second version (improved design/features)
-│   ├── README.md                # README specific to v2
-│   ├── login.py                 # Main file for v2
-│   ├── dashboard.py
-│   ├── register.py
-│   ├── student.py
-│   ├── course.py
-│   ├── result.py
-│   ├── view_result.py
-│   ├── create_db.py
-│   ├── RMS.db                   # Database file for v2
-│   ├── images/                  # UI icons and images
-│  
+├── README.md                    # explains both versions + how to use
+├── SRMS-v1                      # First version (learning phase)                
+├── SRMS-v2                      # Second version (improved design/features)
 └── releases/                    
-    └── SRMS-v2-Executable.zip   # Contains SRMS.exe + RMS.db for end users
+                                 # Contains SRMS.exe + RMS.db for end users
 ```
 
 ## How to Use
