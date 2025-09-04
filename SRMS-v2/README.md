@@ -53,6 +53,52 @@ It is built using **Python (CustomTkinter)** and **SQLite**, and is also availab
 ├── RMS.db # SQLite database file
 └── images/ # Icons and UI images
 ```
+## Screenshots
+
+#### Login & Register
+
+<p float="left">
+  <img src="screenshots/login.png" width="45%" />
+  <img src="screenshots/register.png" width="45%" />
+</p>
+
+#### Dashboard
+
+<p float="left">
+  <img src="screenshots/dashboard.png" width="45%" />
+</p>
+
+<!-- 3 small dashboard windows in one row -->
+<p float="left">
+  <img src="screenshots/dash-course.png" width="30%" />
+  <img src="screenshots/dash-result.png" width="30%" />
+  <img src="screenshots/dash-student.png" width="30%" />
+</p>
+
+#### Student Management
+
+<p float="left">
+  <img src="screenshots/student.png" width="45%" />
+</p>
+
+#### Course Management
+
+<p float="left">
+  <img src="screenshots/course.png" width="45%" />
+</p>
+
+#### Result Management
+
+<p float="left">
+  <img src="screenshots/result.png" width="45%" />
+</p>
+
+#### View Result
+
+<p float="left">
+  <img src="screenshots/view-result.png" width="45%" />
+</p>
+
 ## How to Run
 
 ### Option 1 – Run the Executable (Recommended)
