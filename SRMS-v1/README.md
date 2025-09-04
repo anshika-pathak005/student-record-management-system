@@ -59,7 +59,6 @@ The schema is created via `create_database.py`.
 #### Login & Register
 
 <p float="left">
-  <h4>Login</h4>
   <img src="screenshots/login.png" width="45%" />
   <img src="screenshots/register.png" width="45%" />
 </p>
