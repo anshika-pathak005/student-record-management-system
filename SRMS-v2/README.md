@@ -72,7 +72,7 @@ It is built using **Python (CustomTkinter)** and **SQLite**, and is also availab
 <p float="left">
   <img src="screenshots/dash-course.png" width="33%" />
   <img src="screenshots/dash-result.png" width="33%" />
-  <img src="screenshots/dash-student.png" width="33%" />
+  <img src="screenshots/dash-student.png" width="31%" />
 </p>
 
 #### Student Management
