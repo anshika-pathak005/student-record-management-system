@@ -62,28 +62,24 @@ The schema is created via `create_database.py`.
 ```
 ## How to Run
 
-### Option 1 – Run from Source Code
-1. Make sure **Python 3.x** is installed.  
-2. Download this folder (or the whole repository).  
+### Option 1 – Run the Executable (Recommended)
+
+1. Download **SRMS-v1-Executable.zip** from the [releases](../releases) folder.  
+2. Extract the `.zip` file.  
+3. Make sure **SRMS.exe** and **RMS.db** are kept in the same folder.  
+4. Double-click **SRMS.exe** to launch the application.  
+   - ✅ No installation or setup required  
+   - ✅ All data will be stored inside **RMS.db**
+
+### Option 2 – Run from Source Code
+
+1. Make sure **Python 3.x** is installed on your system.  
+2. Download this folder (or the entire repository).  
 3. Ensure `RMS.db` is in the same folder as the `.py` files.  
-4. Open a terminal/command prompt inside the folder and run:  
+4. Open a terminal/command prompt inside the folder.  
+5. Run the main file:  
    ```bash
    python login.py
-The application will open, and data will be stored inside RMS.db.
-
-Option 2 – Run the Executable
-Download SRMS-v1-Executable.zip from the releases folder.
-
-Extract the .zip.
-
-Keep SRMS.exe and RMS.db in the same folder.
-
-Double-click SRMS.exe to launch the application.
-##Screenshots
-
-This version was my learning phase project — in Version 2, I redesigned the UI with CustomTkinter, added validations, and packaged it into an executable.
-
-## Acknowledgment
 
 This version was inspired by an online tutorial to understand the flow of a student management system.  
 However, all code and design in this version were written by me, and I used the tutorial only as a learning reference.
