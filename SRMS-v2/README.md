@@ -70,9 +70,9 @@ It is built using **Python (CustomTkinter)** and **SQLite**, and is also availab
 
 <!-- 3 small dashboard windows in one row -->
 <p float="left">
-  <img src="screenshots/dash-course.png" width="30%" />
-  <img src="screenshots/dash-result.png" width="30%" />
-  <img src="screenshots/dash-student.png" width="30%" />
+  <img src="screenshots/dash-course.png" width="33%" />
+  <img src="screenshots/dash-result.png" width="33%" />
+  <img src="screenshots/dash-student.png" width="33%" />
 </p>
 
 #### Student Management
