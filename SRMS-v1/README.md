@@ -4,8 +4,6 @@ This is the **first version** of my Student Record Management System (SRMS).
 It was created during my learning phase to practice building a desktop CRUD application using **Python (Tkinter)** and **SQLite**.  
 The design was simple (blue & white theme), but it covered the **core functionality** of student record management.
 
----
-
 ## Features
 
 - **User Authentication**
@@ -29,8 +27,6 @@ The design was simple (blue & white theme), but it covered the **core functional
 - **View Results**
   - Search and view results by roll number in a read-only window.  
 
----
-
 ## Database
 
 This version uses a **SQLite database** (`RMS.db`) with the following 4 tables:
@@ -41,8 +37,6 @@ This version uses a **SQLite database** (`RMS.db`) with the following 4 tables:
 - **Result** → stores marks and calculated percentage  
 
 The schema is created via `create_database.py`.
-
----
 
 ## Folder Structure
 ```
@@ -60,6 +54,45 @@ The schema is created via `create_database.py`.
 ├── RMS.db # SQLite database file
 └── images/ # Icons and UI images
 ```
+## Screenshots
+
+### Login & Register
+
+<p float="left">
+  <img src="screenshots/login.png" width="45%" />
+  <img src="screenshots/register.jpg" width="45%" />
+</p>
+
+### Dashboard
+
+<p float="left">
+  <img src="screenshots/dashboard.png" width="45%" />
+</p>
+
+### Student Management
+
+<p float="left">
+  <img src="screenshots/student.jpg" width="45%" />
+</p>
+
+### Course Management
+
+<p float="left">
+  <img src="screenshots/course.jpg" width="45%" />
+</p>
+
+### Result Management
+
+<p float="left">
+  <img src="screenshots/result.jpg" width="45%" />
+</p>
+
+### View Result
+
+<p float="left">
+  <img src="screenshots/view-result.jpg" width="45%" />
+</p>
+
 ## How to Run
 
 ### Option 1 – Run the Executable (Recommended)
