@@ -17,23 +17,20 @@ I created Version 1 while learning the basics, and then redesigned and enhanced 
   - Packaged as an executable using **PyInstaller** for easy distribution.
   - [Click here to see full details](SRMS-v2)
 
-## Features
+## Features Comparison
 
-### Common Features (Both Versions)
-- User registration and login with validation.  
-- Dashboard for quick navigation and real-time statistics.  
-- Student management (add, update, delete, search).  
-- Course management (add, update, delete, prevent duplicates).  
-- Result management (upload, update, calculate percentages, prevent duplicates).  
-- View results by roll number in a dedicated panel.  
-- Lightweight database using **SQLite3** with no external setup required.  
+| Feature              | Version 1 (Learning Phase) | Version 2 (Improved) |
+|----------------------|-----------------------------|-----------------------|
+| **User Authentication** | Registration & login with password protection | Registration & login with password protection and **strong field validations** (roll no, email, contact, DOB, pin code) |
+| **Dashboard**        | Simple navigation only | Modern design with **real-time statistics** (students, courses, results) |
+| **Student Management** | Add, update, delete, search (no validations) | Add, update, delete, search with **validations to prevent incorrect input** |
+| **Course Management** | Add, update, delete courses (duplicates prevented) | Same, but with **better error handling** |
+| **Result Management** | Add results by roll no, auto-percentage | Add results by roll no, auto-percentage, **duplicate entries prevented** |
+| **View Results**     | Simple search by roll number | Clean, redesigned result view |
+| **Database**         | SQLite (`RMS.db`) with 4 tables → User, Student, Course, Result | Same 4 tables, but integrated with **improved validations & checks** |
+| **UI Design**        | Basic Tkinter (blue & white) | **CustomTkinter** with icons & modern look |
+| **Distribution**     | Run with Python / basic .exe | Packaged as a **standalone executable** (easy for end users) |
 
-### Version 2 Enhancements
-- Fully modernized user interface using **CustomTkinter** with images and icons.  
-- Responsive, modular design with dynamic updates.  
-- Stronger form validations (roll number, email, contact, DOB, pin code, etc.).  
-- Dashboard auto-updates with real-time statistics.  
-- Cleaner packaging for end users with a standalone executable.  
 
 ## Technologies Used
 
