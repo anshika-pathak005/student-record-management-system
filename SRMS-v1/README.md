@@ -56,38 +56,38 @@ The schema is created via `create_database.py`.
 ```
 ## Screenshots
 
-### Login & Register
+#### Login & Register
 
 <p float="left">
   <img src="screenshots/login.png" width="45%" />
   <img src="screenshots/register.jpg" width="45%" />
 </p>
 
-### Dashboard
+#### Dashboard
 
 <p float="left">
   <img src="screenshots/dashboard.png" width="45%" />
 </p>
 
-### Student Management
+#### Student Management
 
 <p float="left">
   <img src="screenshots/student.jpg" width="45%" />
 </p>
 
-### Course Management
+#### Course Management
 
 <p float="left">
   <img src="screenshots/course.jpg" width="45%" />
 </p>
 
-### Result Management
+#### Result Management
 
 <p float="left">
   <img src="screenshots/result.jpg" width="45%" />
 </p>
 
-### View Result
+#### View Result
 
 <p float="left">
   <img src="screenshots/view-result.jpg" width="45%" />
