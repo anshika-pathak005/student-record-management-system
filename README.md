@@ -57,7 +57,7 @@ You can run the **Student Record Management System (SRMS)** in two ways:
 - **Executable (Recommended)** → For normal users who just want to try the app.  
 - **Source Code** → For developers, professors, or anyone who wants to see how it works internally.  
 Choose your version below for detailed setup and screenshots:
-- [How to Run SRMS v1](SRMS-v1/README.md)  
+- [How to Run SRMS v1](SRMS-v1/README.md#how-to-run)
 - [How to Run SRMS v2](SRMS-v2/README.md)
 
 
