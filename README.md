@@ -51,30 +51,15 @@ I created Version 1 while learning the basics, and then redesigned and enhanced 
 └── releases/                    
                                  # Contains SRMS.exe + RMS.db for end users
 ```
-
 ## How to Use
 
-You can either run the ready-made executable (no coding required) or run the project from source code.
+You can run the **Student Record Management System (SRMS)** in two ways:  
+- **Executable (Recommended)** → For normal users who just want to try the app.  
+- **Source Code** → For developers, professors, or anyone who wants to see how it works internally.  
+Choose your version below for detailed setup and screenshots:
+- [How to Run SRMS v1](SRMS-v1/README.md)  
+- [How to Run SRMS v2](SRMS-v2/README.md)
 
-### Option 1 – Run the Executable (Recommended for Normal Users)
-1. Download the provided folder or ZIP containing:
-   - SRMS.exe
-   - RMS.db
-2. Important: Keep SRMS.exe and RMS.db in the same folder.  
-3. Double-click SRMS.exe to start the application.  
-   - No installation or setup required.  
-   - All your data will be stored inside RMS.db.  
-
-### Option 2 – Run from Source Code
-1. Make sure Python 3.x is installed on your system.      
-2. Download this repository:  
-   - Either Download ZIP → Extract it, OR  
-   - Use Git (optional): git clone https://github.com/<your-username>/srms.git
-3. Ensure RMS.db is in the same folder as the .py files.  
-4. Open Command Prompt, Terminal, or Git Bash inside the project folder.  
-5. Run the main file:
-   `bash
-   python login.py
 
 ## Project Screenshots
 
