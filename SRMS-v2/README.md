@@ -53,26 +53,28 @@ It is built using **Python (CustomTkinter)** and **SQLite**, and is also availab
 ├── RMS.db # SQLite database file
 └── images/ # Icons and UI images
 ```
-## Screenshots
 ## How to Run
 
-### Option 1 – Run from Source Code
-1. Make sure **Python 3.x** is installed.  
-2. Download this folder (or the whole repository).  
+### Option 1 – Run the Executable (Recommended)
+
+1. Download **SRMS-v2-Executable.zip** from the [releases](../releases) folder.  
+2. Extract the `.zip` file.  
+3. Make sure **SRMS.exe** and **RMS.db** are kept in the same folder.  
+4. Double-click **SRMS.exe** to launch the application.  
+   - ✅ No installation or setup required  
+   - ✅ All data will be stored inside **RMS.db**
+
+
+### Option 2 – Run from Source Code
+
+1. Make sure **Python 3.x** is installed on your system.  
+2. Download this folder (or the entire repository).  
 3. Ensure `RMS.db` is in the same folder as the `.py` files.  
-4. Open a terminal/command prompt inside the folder and run:  
+4. Open a terminal/command prompt inside the folder.  
+5. Run the main file:  
    ```bash
    python login.py
-The application will open, and data will be stored inside RMS.db.
-
-###Option 2 – Run the Executable (Recommended)
-Download SRMS-v2-Executable.zip from the releases folder.
-
-Extract the .zip.
-
-Keep SRMS.exe and RMS.db in the same folder.
-
-Double-click SRMS.exe to launch the application.
+6. The application will launch, and all data will be stored inside RMS.db.
 
 ## Acknowledgment
 
